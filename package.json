@@ -6,7 +6,7 @@
   "main": "src/App.js",
   "scripts": {
     "start": "parcel ./examples/matrix.html",
-    "build": "parcel build ./examples/matrix.html",
+    "build": "parcel build ./examples/custom-layout.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

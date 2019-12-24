@@ -5,7 +5,7 @@
   "description": "Cast any <canvas> element to an LED Matrix over WebSockets with an Arduino/ESP8266.",
   "main": "src/App.js",
   "scripts": {
-    "start": "parcel ./examples/custom-layout.html",
+    "start": "parcel ./examples/index.html",
     "build": "parcel build ./src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
